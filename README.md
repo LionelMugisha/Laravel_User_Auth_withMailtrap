@@ -3,7 +3,7 @@ A user registration must be implemented. After filling the form data which consi
 
 1. Problems and findings
 Problems
-
+* Configuring the mail response in the project
 Findings
 * I have used laravel/ui and after ui/auth which consist everything needed to make an authentication.
 * For email verification i have used mailtrap for mail testing
